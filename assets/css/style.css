@@ -1,0 +1,40 @@
+body{
+    background-image: url("https://www.rosiesrewards.com/wp-content/uploads/2018/11/ninja-turtle-wallpaper-luxury-image-wiki-background-of-ninja-turtle-wallpaper.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#start {
+	margin-top: 10px;
+}
+
+#restart {
+	margin-top: 10px;
+}
+
+#splashScreen {
+	display: inherit;
+	margin-top: 100px;
+}
+
+#questions {
+	display: none;
+	margin-top: 50px;
+}
+
+#snarf {
+	background: rgb(215, 241, 217);
+}
+
+#text {
+	margin-bottom: 20px;
+}
+
+#gameOver {
+	display: none;
+	margin-top: 50px;
+}
+
+#timer {
+	visibility: hidden;
+}
+
